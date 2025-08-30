@@ -31,7 +31,17 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
 </tr>
 </table>
 
-# *Badges*
+<h1>
+  <!-- The original GIF as header -->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="45" style="vertical-align: middle;"/>
+
+  <!-- Clickable Credly logo next to it -->
+  <a href="https://www.credly.com/users/noufa-sunkesula" target="_blank" title="Credly">
+    <img src="credly.png" width="75" style="vertical-align: middle; margin-left: 8px;"/>
+  </a>
+</h1>
+
+
 <p align="center">
   <!-- ROW 1 (110px, tighter spacing) -->
   <img src="google-cybersecurity-professional-certificate-v2.png" alt="Google Cybersecurity" width="110" style="margin-right:-8px;"/>
@@ -50,7 +60,10 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
   <img src="advanced-kubernetes-operators.png" alt="Advanced Kubernetes" width="90" style="padding:5px;"/>
 </p>
 
-# *Certs*
+<h1>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="45" style="vertical-align: middle;"/>
+  <em>Certs</em>
+</h1>
 <p align="center">
   <img src="terraform+aws.jpg" alt="Terraform + AWS" width="185" style="margin-right:-6px;"/>
   <img src="intro-to-container-basics.jpg" alt="Intro to Containers" width="180" style="margin-right:-6px;"/>
@@ -59,15 +72,48 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
     
 </p>
 
-# *What I Do*
-- Build secure and reliable CI/CD pipelines following DevSecOps best practices  
+<h1>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="45" style="vertical-align: middle;"/>
+  <em>What I Do!</em>
+</h1>
+
+- Build secure and reliable CI/CD pipelines following DevOps/DevSecOps best practices  
 - Automate cloud infrastructure provisioning with Terraform and AWS  
 - Containerize and orchestrate applications using Docker and Kubernetes  
 - Implement monitoring, logging, and observability with Grafana and Prometheus  
 - Manage access, roles, and compliance through IAM and security policies  
 - Apply Infrastructure as Code (IaC) principles to ensure repeatable, scalable deployments
 
+
+<h1>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="45" style="vertical-align: middle;"/>
+  <em>Contact</em>
+</h1>
+<p align="center">
+
+
+
+<a href="mailto:noufasunkesula@gmail.com" title="Email">
+  <img src="gmail.png" width="30" height="30"/>
+</a>
+
+<a href="tel:+918106859686" title="Phone">
+  <img src="circle.png" width="30" height="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/noufasunkesula" title="LinkedIn">
+  <img src="linkedin.png" width="30" height="30"/>
+</a>
+
+<a href="https://www.credly.com/users/noufa-sunkesula" title="Credly">
+  <img src="credly.png" width="50" height="50"/>
+</a>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <br><br>
- 
+
+
 
