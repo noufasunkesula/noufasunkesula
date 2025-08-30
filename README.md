@@ -30,6 +30,28 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
 </tr>
 </table>
 
+# Badges
+<p align="center">
+  <!-- ROW 1 (110px, tighter spacing) -->
+  <img src="google-cybersecurity-professional-certificate-v2.png" alt="Google Cybersecurity" width="110" style="margin-right:-8px;"/>
+  <img src="aws-educate-introduction-to-cloud-101.png" alt="AWS Cloud 101" width="110" style="margin-right:-8px;"/>
+  <img src="aws-educate-getting-started-with-networking.png" alt="AWS Networking" width="110" style="margin-right:-8px;"/>
+  <img src="aws-educate-getting-started-with-security.png" alt="AWS Security" width="110" style="margin-right:-8px;"/>
+  <img src="aws-educate-getting-started-with-cloud-ops.png" alt="AWS Cloud Ops" width="110" style="margin-right:-8px;"/>
+  <img src="aws-knowledge-amazon-eks.png" alt="AWS EKS" width="110" style="margin-right:-8px;"/>
+  <img src="aws-knowledge-security-champion-badge.png" alt="AWS Security Champion" width="110"/>
+</p>
+
+<p align="center">
+  <!-- ROW 2 (90px, neat spacing) -->
+  <img src="docker-essentials-a-developer-introduction.png" alt="Docker Essentials" width="90" style="padding:5px;"/>
+  <img src="intermediate-kubernetes-operators.png" alt="Intermediate Kubernetes" width="90" style="padding:5px;"/>
+  <img src="advanced-kubernetes-operators.png" alt="Advanced Kubernetes" width="90" style="padding:5px;"/>
+</p>
+
+
+
+
 
 
 # *What I Do*
