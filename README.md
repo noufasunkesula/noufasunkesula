@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="header.png" alt="Header Banner" width="100%">
+  <img src="banner-noufa.png" alt="Header Banner" width="100%">
 </p>
 
 # *Hey, Noufa here!*
@@ -11,7 +11,7 @@ With a focus on cloud security automation & DevSecOps, I design and deploy solut
   <img src="aws-color.png" alt="AWS" width="60" height="60"/>
   <img src="docker.png" alt="Docker" width="60" height="60"/>
   <img src="Kubernetes.png" alt="Kubernetes" width="60" height="60"/>
-  <img src="terraform.jpg" alt="Terraform" width="60" height="60"/>
+  <img src="HashiCorp Terraform.png" alt="Terraform" width="60" height="60"/>
   <img src="jenkins.png" alt="Jenkins" width="60" height="60"/>
   <img src="Grafana.png" alt="Grafana" width="60" height="60"/>
   <img src="Prometheus.png" alt="Prometheus" width="60" height="60"/>
