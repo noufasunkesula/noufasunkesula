@@ -52,10 +52,11 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
 
 # *Certs*
 <p align="center">
+  <img src="terraform+aws.jpg" alt="Terraform + AWS" width="185" style="margin-right:-6px;"/>
   <img src="intro-to-container-basics.jpg" alt="Intro to Containers" width="180" style="margin-right:-6px;"/>
   <img src="intro-to-k8's-core-concepts.jpg" alt="Kubernetes Core Concepts" width="180" style="margin-right:-6px;"/>
   <img src="identitiy-access-management.jpg" alt="Identity & Access Management" width="180"/>
-    <img src="terraform+aws.jpg" alt="Terraform + AWS" width="185" style="margin-right:-6px;"/>
+    
 </p>
 
 # *What I Do*
