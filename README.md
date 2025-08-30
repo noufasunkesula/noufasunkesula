@@ -93,15 +93,15 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
 
 
 <a href="mailto:noufasunkesula@gmail.com" title="Email">
-  <img src="gmail.png" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="gmail.png" width="45" height="50" style="margin-right: 10px;"/>
 </a>
 
 <a href="tel:+918106859686" title="Phone">
-  <img src="circle.png" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="circle.png" width="45" height="50" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://www.linkedin.com/in/noufasunkesula" title="LinkedIn">
-  <img src="linkedin.png" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="linkedin.png" width="45" height="50" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://www.credly.com/users/noufa-sunkesula" title="Credly">
