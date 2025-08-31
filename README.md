@@ -24,8 +24,8 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
 </td>
 <td width="30%" align="center" style="padding-left:20px;">
 
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" 
-     width="220" alt="Noufa GIF">
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="200" />
+    
 
 </td>
 </tr>
