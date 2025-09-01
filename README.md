@@ -9,8 +9,10 @@
 <td width="70%">
 
 # *Hey, Noufa here!*
-With a focus on **Cloud Security Automation & DevOps**, I design and deploy solutions that bring together Infrastructure as Code (IaC), CI/CD pipelines, and real-time monitoring.  
-I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Grafana**, delivering secure and resilient applications.
+With a focus on **Cloud Security Automation & DevOps**, I design and deploy solutions that bring together **infrastructure provisioning, application delivery, and security enforcement**. I create secure, scalable, and automated environments that help teams deliver faster while staying compliant and resilient. My work spans **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Grafana**, with an emphasis on efficiency, automation, and security.  
+
+I use **IaC with Terraform** for cloud provisioning, build CI/CD pipelines in **Jenkins** to automate deployments, and manage containerized workloads with **Docker & Kubernetes**. I integrate **SonarQube** for continuous code quality and **Grafana** for real-time observability. Alongside automation, I prioritize **cloud security best practices** from IAM design and compliance checks to vulnerability scanning, ensuring every solution is high-performing, secure, and resilient.  
+
 <p align="center">
   <img src="aws-color.png" alt="AWS" width="60" height="60"/>
   <img src="docker.png" alt="Docker" width="60" height="60"/>
@@ -24,7 +26,7 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
 </td>
 <td width="30%" align="center" style="padding-left:20px;">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="200" />
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="220" />
     
 
 </td>
@@ -109,8 +111,6 @@ I work around **AWS, Terraform, Kubernetes, Jenkins, Docker, SonarQube, and Graf
     <img src="credly.png" width="70" height="70" style="border: none;"/>
   </a>
 </p>
-
-
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
